@@ -5,25 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-title: "Bhargav Jha"
-description: "Assistant Professor, Electrical Engineering, IIT Kharagpur"
-url: "https://bhargavjha.github.io"
-baseurl: ""
-
-author:
-  name: "Bhargav Jha"
-  email: "bhargav@ee.iitkgp.ac.in"
-  employer: "Indian Institute of Technology Kharagpur"
-  role: "Assistant Professor"
-  bio: "My research focuses on optimal control, differential games, and path planning for autonomous systems."
-  location: "Kharagpur, West Bengal, India"
-  links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:bhargav@ee.iitkgp.ac.in"
-    - label: "Website"
-      icon: "fas fa-link"
-      url: "https://www.bhargavjha.info"
 
 # Basic Site Settings
 locale                   : "en-US"
